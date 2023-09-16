@@ -1,0 +1,15 @@
+----------------------NPM Commands-----------------------
+# npm init / npm init -y(no questionaries)
+# npm i express nodemon socket.io nanoid
+# npm install nodemailer
+
+
+
+---------------------------Run---------------------------
+*** replace this in package.json:
+    "scripts": {
+      "start": "node server",
+      "dev": "nodemon server"
+    }
+    
+# npm run dev / nodemon server_file

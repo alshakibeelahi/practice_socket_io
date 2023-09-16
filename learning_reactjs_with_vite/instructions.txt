@@ -1,0 +1,3 @@
+npm install axios
+npm install socket.io-client
+npm install react-router-dom
